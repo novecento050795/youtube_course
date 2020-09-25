@@ -15,6 +15,7 @@ export default class CarouselBox extends React.Component {
             className="d-block w-100"
             src={forestSnow}
             alt="Forest Snow"
+            height="900"
           />
           <Carousel.Caption>
             <h3>Forest snow image</h3>
@@ -27,6 +28,7 @@ export default class CarouselBox extends React.Component {
             className="d-block w-100"
             src={forest}
             alt="Forest"
+            height="900"
           />
           <Carousel.Caption>
             <h3>Forest image</h3>
